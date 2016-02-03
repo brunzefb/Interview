@@ -1,5 +1,5 @@
 # Interview Questions (JavaScript)
-#### Contains data for the Sciex Interview problem
+#### The file data.json  in this repo contains data for the Sciex Interview problem.  Either clone the repo, or download the .zip file to get the data file.
    1. Find the number of elements (data length) in the XY array
    2. Find the highest valued data point in a given data set, output Y value
    2. Find the second highest valued data point in a data set, output Y value
@@ -29,7 +29,7 @@ There is a data file checked into the repository, called **data.json**.  This fi
 5.	Output should be similar to the screenshot above, except within the browser.
 
 ### Outputs
-\#1 Node JS solution should be a .js file (s)
+\#1 Node JS solution should be one or more .js file(s)
 
 \#2 JS inside browser solution should be a .zip file that has the project (.html, .js, .css etc).
 
