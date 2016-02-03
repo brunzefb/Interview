@@ -27,3 +27,10 @@ There is a data file checked into the repository, called **data.json**.  This fi
 3.	The javascript writes <p\> output to the browser DOM
 4.	Style the text output with css, font colour dark blue, font=consolas, size=14pt
 5.	Output should be similar to the screenshot above, except within the browser.
+
+### Outputs
+\#1 Node JS solution should be a .js file (s)
+
+\#2 JS inside browser solution should be a .zip file that has the project (.html, .js, .css etc).
+
+#### Send your finished solution <Friedrich.Brunzema@sciex.com>
