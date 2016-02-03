@@ -34,4 +34,4 @@ There is a data file checked into the repository, called **data.json**.  This fi
 
 \#2 JS inside browser solution should be a .zip file that has the project (.html, .js, .css etc).
 
-#### Send your finished solution Friedrich.Brunzema *-AT-* sciex.com
+#### Send your finished solution Friedrich.Brunzema *-AT-* sciex.com 
