@@ -27,6 +27,7 @@ There is a data file checked into the repository, called **data.json**.  This fi
 3.	The javascript writes <p\> output to the browser DOM
 4.	Style the text output with css, font colour dark blue, font=consolas, size=14pt
 5.	Output should be similar to the screenshot above, except within the browser.
+![Desired Output Web](webAnswer.png) 
 
 ### Outputs
 \#1 Node JS solution should be one or more .js file(s)
