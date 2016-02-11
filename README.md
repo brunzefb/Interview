@@ -4,12 +4,12 @@
    2. Find the highest valued data point in a given data set, output Y value
    2. Find the second highest valued data point in a data set, output Y value
    3. Find the lowest valued data point in a data set, output Y value
-   4. Find the zero based centroid value (explained below), output index at which the centroid value is located.
+   4. Find the zero based median value (explained below), output index at which the median value is located.
 
 ![Centroid peak.](peak.png)
 
-The centroid value can be thought of as the “balance point”.  Think of drawing the peak on a piece of cardboard, and cutting it out, and then balancing it on a knife’s edge.  The point where it balances is the centroid value we are looking for.
-Assume the indexes are 0 based.  Also assume that the point you want is the one where the accumulated area is still less than half the total area.
+The median value can be thought of as the “balance point”.  Think of drawing the peak on a piece of cardboard, and cutting it out, and then balancing it on a knife’s edge.  The point where it balances is the median value we are looking for.
+Assume the indexes are 0 based.  Also assume that the point you want is the one where the accumulated area is still less half the total area.
 
 
 ##JavaScript solutions  (do either #1 OR #2):
