@@ -31,6 +31,6 @@ There is a data file checked into the repository, called **data.json**.  This fi
 ### Outputs
 \#1 Node JS solution should be one or more .js file(s)
 
-\#2 JS inside browser solution should be a .zip file that has the project (.html, .js, .css etc).
+\#2 JS inside browser solution should one file with multiple sections, separated by ########### (.html, .js, .css etc).
 
-#### Send your finished solution Friedrich.Brunzema *-AT-* sciex.com 
+#### Paste your final solution to the Inteviewzen.com site. 
