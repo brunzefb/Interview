@@ -33,4 +33,4 @@ There is a data file checked into the repository, called **data.json**.  This fi
 
 \#2 JS inside browser solution should one file with multiple sections, separated by ########### (.html, .js, .css etc).
 
-#### Paste your final solution to the Inteviewzen.com site. 
+#### Paste your final solution to the Interviewzen.com site. 
