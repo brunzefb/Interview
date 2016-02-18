@@ -8,8 +8,7 @@
 
 ![Centroid peak.](peak.png)
 
-The median value can be thought of as the “balance point”.  Think of drawing the peak on a piece of cardboard, and cutting it out, and then balancing it on a knife’s edge.  The point where it balances is the median value we are looking for.
-Assume the indexes are 0 based.  Also assume that the point you want is the one where the accumulated area is still less half the total area.
+The median value is the index at or just below which half the signal is found.
 
 
 ##JavaScript solutions  (do either #1 OR #2):
